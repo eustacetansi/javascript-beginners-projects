@@ -29,7 +29,6 @@ li{
     align-items: center;
     text-align: center;
 }
-/* main{
-    height: 70vh;
-    background-color: blueviolet;
-} */
+nav a{
+    text-decoration: none;
+}
